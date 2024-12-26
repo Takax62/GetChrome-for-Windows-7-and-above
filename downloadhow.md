@@ -1,0 +1,1 @@
+This tool will help you to install Google Chrome 131. To download this tool, you need to download the file named "GetChrome.exe" and then, open it. Or download the file named "GetChrome.rar" and then, you need to open that .rar file. Now you opened the .rar file. You need to run the file named "GetChrome.exe".
