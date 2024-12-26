@@ -1,1 +1,1 @@
-# GetChrome-for-Windows-7-or-aboveand
+# GetChrome-for-Windows-7-or-above
